@@ -10,7 +10,7 @@ while i < 20 and flagSources[i] != 9:
 print(flag)
 
 
-# ORIGINAL FUNCTION. Is small, so I gonna include it here. It was decompiled with Ghidra.
+# ORIGINAL FUNCTION. It is small, so I'm gonna include it here. It was decompiled with Ghidra.
 
 # void keyGenerator(byte *param_1)
 # {
