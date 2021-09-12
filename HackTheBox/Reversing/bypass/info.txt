@@ -1,0 +1,10 @@
+NOTE: This is the first time I reverse engineer a .NET .exe.
+
+- The program is a .NET 4.x program.
+- Used dotPeek to decompile it.
+- Apparently, it is obfuscated.
+- I saw that a resource had high entropy; It had to be encrypted. So searching in the source code I found out that was true.
+Also, found a class that has methods to decrypt (the resource).
+- Analized and deobfuscated the program.
+- Debugged with visual studio and got the flag.
+- You can see the decompiled, deobfuscated VS. solution in 'Bypass' folder.
