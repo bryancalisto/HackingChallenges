@@ -1,0 +1,5 @@
+- The 'SuperSeKretKey' key is just a false clue.
+
+- In 'main' function you can find some contiguous bytes (an array). Everyone of those bytes will be xor-ed
+ against number 9 (Xi ^ 9) and the resulting byte will be converted to its corresponding ascii character and appended
+ to what will be the flag.
