@@ -1,0 +1,16 @@
+{
+  "name": "gunship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exploringPrototPollution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "flat": "^5.0.0",
+    "handlebars": "^4.0.0"
+  }
+}
